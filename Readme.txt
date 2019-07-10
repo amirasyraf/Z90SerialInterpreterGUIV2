@@ -1,1 +1,1 @@
-See the comments at the top of Terminal.cs for information.
+This one doesn't crash randomly, somehow.
